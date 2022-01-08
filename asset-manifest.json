@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/github.io/reactProject/static/css/main.95572e71.css",
+    "main.js": "/github.io/reactProject/static/js/main.ab93f987.js",
+    "static/media/portfolio9.jpg": "/github.io/reactProject/static/media/portfolio9.2b667c55a4be8ad3770c.jpg",
+    "static/media/portfolio1.jpg": "/github.io/reactProject/static/media/portfolio1.471eb8e3ab13606c83af.jpg",
+    "static/media/bootstrap-icons.woff?": "/github.io/reactProject/static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
+    "static/media/bootstrap-icons.woff2?": "/github.io/reactProject/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
+    "index.html": "/github.io/reactProject/index.html",
+    "main.95572e71.css.map": "/github.io/reactProject/static/css/main.95572e71.css.map",
+    "main.ab93f987.js.map": "/github.io/reactProject/static/js/main.ab93f987.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95572e71.css",
+    "static/js/main.ab93f987.js"
+  ]
+}
